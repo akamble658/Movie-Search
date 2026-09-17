@@ -18,3 +18,7 @@ Deployment Context:
 Salesforce Org (Developer Edition).
 Component exposed in movieDetail.js-meta.xml with targets like lightning__CommunityPage.
 Available in Experience Builder → “Movie Search” workspace.
+
+
+orgfarm-cfce7f6467-dev-ed.develop.my.site.com/moviesearch
+
